@@ -37,6 +37,10 @@ The first thing I realized after open Sirclo’s landing page that the primary b
 
 <img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/1-Landing%20Page.jpg">
 
+I see 2 design alternative on this, first one is we can design active button and button while hovered in two different solid colors. Second, we can create one active button that has only stroke and button while hovered with exixting button.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo's%20Improvement/Buttons.JPG">
+
 Then, after I started to create a website for my store on Sirclo Store I felt that “SEMUA TEMPLATE”, “TEMPLATE GRATIS”, and “TEMPLATE BERBAYAR” text should be improved and crafted more like a button rather than just a text. I believe this will make the user easier to understand.
 
 <img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/5-Choose%20Template%20Page.jpg">
@@ -44,6 +48,10 @@ Then, after I started to create a website for my store on Sirclo Store I felt th
 Next, at the Store Information Page, I think there is too much information for the user to fill. I believe that information such as phone number, country, state, city, how you find Sirclo, and store social media is secondary information needed to create a website. I believe that we can collect this information later after the user completes the store creation process. Or, we could show the information placeholder one by one like registering on Shopify.
 
 <img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/7-Store%20Information%20Page.jpg">
+
+I like how Shopify grouping their user information, so user will not suddenly asked to fill a lot of information at one time but in several steps. I believe this will help the usability of the store creation process.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo's%20Improvement/Shopify%201.jpg">
 
 After I completed the process, I immediately go to the Admin Page. I think it’s already has a good minimalistic and understandable design. But, I’m confused that why if I scrolled down, both of the columns are going down simultaneously. I think it would be better if we scrolled down on one column, the other column must be standstill. I believe this also will help with the usability of this product.
 
