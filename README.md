@@ -56,3 +56,15 @@ I like how Shopify grouping their user information, so user will not suddenly as
 After I completed the process, I immediately go to the Admin Page. I think it’s already has a good minimalistic and understandable design. But, I’m confused that why if I scrolled down, both of the columns are going down simultaneously. I think it would be better if we scrolled down on one column, the other column must be standstill. I believe this also will help with the usability of this product.
 
 <img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/11-Admin%20Page.jpg">
+
+<h3> Question 5: </h3>
+
+I tested the simple mockup to 3 of my friends as a user. At the choose template page they immediately recognize that there are 3 different buttons for 3 different types of templates to choose for. 
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo's%20Improvement/Choose%20Template%20Page%20Revamp.jpg">
+
+Then, after I redesign the store information page 2 users said that splitting information page into several pages help them to increase the completion rate of the store creation. But, in the other hand one user still prefer the existing form type.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo's%20Improvement/Store%20Information%20Page%20Revamp.jpg">
+
+I always hope even smallest detail possible could improve the usability of a product.
