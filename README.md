@@ -30,3 +30,21 @@ I hope that with this design my generation can have the ability to track and rec
 <h3> Question 3: </h3>
 
 That was a time when I become a part of Parkin project team. In the beginning, we approved that we will create a wireframe and prototype on Adobe XD. But as time goes on, collaboration features on Adobe XD have a frequent error. Because the design system was already finished and some screens have already under development, in the middle of the project we agreed that we must migrate to Figma. After migrated to Figma, almost all of the designs become disorganized. And since the deadline for the usability test is tight, we focus on fix the design first for the Usability Testing and put the design system later. We believe this because a better collaboration feature on Figma will help our team to work more efficiently in the future.
+
+<h3> Question 4: </h3>
+
+The first thing I realized after open Sirclo’s landing page that the primary button could be improved. Rather than blue-gradient-change-direction on hover, I’m sure it will be better if the primary button just used solid color and then changed to either darker on lighter color while hovering with a mouse.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/1-Landing%20Page.jpg">
+
+Then, after I started to create a website for my store on Sirclo Store I felt that “SEMUA TEMPLATE”, “TEMPLATE GRATIS”, and “TEMPLATE BERBAYAR” text should be improved and crafted more like a button rather than just a text. I believe this will make the user easier to understand.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/5-Choose%20Template%20Page.jpg">
+
+Next, at the Store Information Page, I think there is too much information for the user to fill. I believe that information such as phone number, country, state, city, how you find Sirclo, and store social media is secondary information needed to create a website. I believe that we can collect this information later after the user completes the store creation process. Or, we could show the information placeholder one by one like registering on Shopify.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/7-Store%20Information%20Page.jpg">
+
+After I completed the process, I immediately go to the Admin Page. I think it’s already has a good minimalistic and understandable design. But, I’m confused that why if I scrolled down, both of the columns are going down simultaneously. I think it would be better if we scrolled down on one column, the other column must be standstill. I believe this also will help with the usability of this product.
+
+<img src="https://github.com/rihanwibowo/test-sirclo/blob/master/Sirclo%20Existing%20Pages/11-Admin%20Page.jpg">
